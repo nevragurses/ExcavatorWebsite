@@ -1,11 +1,11 @@
 {
-    "name": "hairdresser_booking_flutter",
-    "short_name": "hairdresser_booking_flutter",
+    "name": "excavator",
+    "short_name": "excavator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Hairdresser Reservation Flutter Application",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
